@@ -1,0 +1,170 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord in ./.local/lib/python3.9/site-packages (1.7.3)
+Requirement already satisfied: discord.py>=1.7.3 in ./.local/lib/python3.9/site-packages (from discord) (1.7.3)
+Requirement already satisfied: aiohttp<3.8.0,>=3.6.0 in ./.local/lib/python3.9/site-packages (from discord.py>=1.7.3->discord) (3.7.4.post0)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.7.3->discord) (3.10.0.2)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.7.3->discord) (21.2.0)
+Requirement already satisfied: chardet<5.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.7.3->discord) (4.0.0)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.7.3->discord) (5.1.0)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.7.3->discord) (3.0.1)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.7.3->discord) (1.6.3)
+Requirement already satisfied: idna>=2.0 in /usr/lib/python3/dist-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py>=1.7.3->discord) (2.6)
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: requests in ./.local/lib/python3.9/site-packages (2.26.0)
+Requirement already satisfied: charset-normalizer~=2.0.0 in ./.local/lib/python3.9/site-packages (from requests) (2.0.6)
+Requirement already satisfied: certifi>=2017.4.17 in ./.local/lib/python3.9/site-packages (from requests) (2021.5.30)
+Requirement already satisfied: idna<4,>=2.5 in /usr/lib/python3/dist-packages (from requests) (2.6)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in ./.local/lib/python3.9/site-packages (from requests) (1.26.7)
+['397576612021-10-04T02:39:42.929585', '499928262021-10-03T16:37:36.841297', '560109352021-10-03T12:07:20.798139', '625696142021-10-03T09:10:00.116476', '465819622021-10-03T08:14:04.564888', '625433442021-10-03T03:47:12.897576', '625700822021-10-02T22:50:55.007183', '448044872021-10-02T15:54:12.170369', '402488902021-10-02T15:45:09.379893', '625543772021-10-02T14:06:52.207457', '560328222021-10-02T13:59:06.434264', '625617192021-10-02T08:46:33.350684', '625416552021-10-02T07:53:24.510289', '625561992021-10-02T04:15:11.622231', '625531242021-10-02T03:22:19.303103', '625629692021-10-01T20:47:32.616367', '625515372021-10-01T20:42:23.431756', '625364912021-10-01T18:59:19.753080', '625677362021-10-01T18:41:23.343696', '625543772021-10-01T18:28:55.592608']
+['625358612021-10-04T22:17:25.721281', '367189942021-10-04T14:07:07.152904', '335838572021-10-04T14:05:44.224994', '345768462021-10-04T13:50:24.925643', '625358612021-10-04T12:10:02.960735', '625689942021-10-04T09:34:35.055509', '335838572021-10-04T09:19:30.115707', '335838572021-10-04T08:45:44.609308', '348416602021-10-04T06:50:42.625370', '348416602021-10-04T05:27:02.689286', '432384752021-10-04T04:24:43.196758', '428819512021-10-04T04:24:04.798769', '428819512021-10-04T03:52:12.935028', '354645992021-10-04T00:16:33.380815', '380572792021-10-04T00:16:29.134805', '380572792021-10-04T00:16:27.675673', '345768462021-10-03T23:58:05.060616', '560328222021-10-03T22:50:56.339448', '362376792021-10-03T22:30:00.992192', '386581482021-10-03T17:44:43.629289']
+Open Sea bot is now online
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+[]
+
+
+625543772021-10-01T18:28:55.592608
+
+
+625677362021-10-01T18:41:23.343696
+
+
+625364912021-10-01T18:59:19.753080
+
+
+625515372021-10-01T20:42:23.431756
+
+
+625629692021-10-01T20:47:32.616367
+
+
+625531242021-10-02T03:22:19.303103
+
+
+625561992021-10-02T04:15:11.622231
+
+
+625416552021-10-02T07:53:24.510289
+
+
+625617192021-10-02T08:46:33.350684
+
+
+560328222021-10-02T13:59:06.434264
+
+
+625543772021-10-02T14:06:52.207457
+
+
+402488902021-10-02T15:45:09.379893
+
+
+448044872021-10-02T15:54:12.170369
+
+
+625700822021-10-02T22:50:55.007183
+
+
+625433442021-10-03T03:47:12.897576
+
+
+465819622021-10-03T08:14:04.564888
+
+
+625696142021-10-03T09:10:00.116476
+
+
+560109352021-10-03T12:07:20.798139
+
+
+499928262021-10-03T16:37:36.841297
+
+
+397576612021-10-04T02:39:42.929585
+{}
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+Payload delivered successfully For Offer List Bot, code 204.
+['625617192021-10-01T19:15:07.341629', '625617192021-10-01T19:15:10.072315', '625629692021-10-01T19:16:43.267681', '625629692021-10-01T19:16:45.921174', '345768462021-10-02T01:07:37.443990', '625561992021-10-02T08:27:15.795178', '625617192021-10-02T08:31:19.540390', '625696142021-10-02T11:44:08.545882', '357325752021-10-02T11:48:10.038678', '625700822021-10-02T11:49:57.723791', '625433442021-10-02T12:19:13.787937', '610540622021-10-02T12:20:14.672706', '610540622021-10-02T12:20:16.735812', '453426902021-10-02T14:59:18.871608', '625409682021-10-02T15:01:13.103113', '357325752021-10-03T07:00:12.503935', '377234032021-10-03T07:01:05.484293', '625736362021-10-03T07:01:54.202051', '335838572021-10-03T14:53:05.600740', '397576612021-10-03T14:53:49.066454']
+[]
+[]
+
+
+625543772021-10-01T18:28:55.592608
+
+
+625677362021-10-01T18:41:23.343696
+
+
+625364912021-10-01T18:59:19.753080
+
+
+625515372021-10-01T20:42:23.431756
+
+
+625629692021-10-01T20:47:32.616367
+
+
+625531242021-10-02T03:22:19.303103
+
+
+625561992021-10-02T04:15:11.622231
+
+
+625416552021-10-02T07:53:24.510289
+
+
+625617192021-10-02T08:46:33.350684
+
+
+560328222021-10-02T13:59:06.434264
+
+
+625543772021-10-02T14:06:52.207457
+
+
+402488902021-10-02T15:45:09.379893
+
+
+448044872021-10-02T15:54:12.170369
+
+
+625700822021-10-02T22:50:55.007183
+
+
+625433442021-10-03T03:47:12.897576
+
+
+465819622021-10-03T08:14:04.564888
+
+
+625696142021-10-03T09:10:00.116476
+
+
+560109352021-10-03T12:07:20.798139
+
+
+499928262021-10-03T16:37:36.841297
+
+
+397576612021-10-04T02:39:42.929585
+{}
+[]
+[]
+[]
+[]
