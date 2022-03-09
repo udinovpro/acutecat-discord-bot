@@ -16,7 +16,7 @@ embed_footer_img = 'https://lh3.googleusercontent.com/n3m3dz6nRNxEXlXJdm4Saj7R2Q
 emoji_id = 'Ξ'#'<:EthereumETHicon:881224001974849596>'
 
 
-discord_bot_token = "ODkzNDY4Njk3MTQwODAxNTQ2.YVb5kQ.huHhuOUNOG5WJpM6iOvtChooQp0" # paste your bot token here 
+discord_bot_token = "ODkzNDY4Njk3MTQwODAxNTQ2.YVb5kQ.ConBAHku9Kdsf-jxy-GCl-R2cVc" # paste your bot token here 
 
 webhook_url_for_sales = 'https://discord.com/api/webhooks/893471404836651028/bLQWHXMAHZeAFgdxoQ6_B2znapmUtkpxkuAgaZ7BK4aSXh45_XfZQcCkc5QrowAMfUP3' #paste your webhook url here
 
